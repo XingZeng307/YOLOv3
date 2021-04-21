@@ -32,7 +32,7 @@ I put my pre-trained weights link here. https://drive.google.com/drive/folders/1
 # Reference
 [1] Joseph Redmon and Ali Farhadi. Yolov3: An incremental improvement. arXiv preprint arXiv:1804.02767, 2018
 
-[2] https://github.com/pjreddie/darknet/tree/master/src (source code)
+[2] https://github.com/pjreddie/darknet/tree/master/src (yolov3 source code written in C)
 
 [3] https://github.com/ultralytics/yolov3/
 
